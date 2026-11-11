@@ -1,0 +1,6 @@
+{
+  "name": "COUNTER BILLING – ASAN KIRYANA",
+  "description": "Fast Pakistani Kiryana Store Counter Billing POS, Stock Management, Udhaar Khata, Daily & Monthly Profit Reports, and Excel Export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
